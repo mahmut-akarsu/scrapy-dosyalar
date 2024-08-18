@@ -1,0 +1,6002 @@
+[
+    {
+        "marka": "l'oreal paris",
+        "is_boycotted": true,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kiko",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "maybelline new york",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "flormar",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pastel",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "golden rose",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mac",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "beaulis",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "avon",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dior",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sephora",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nyx professional makeup",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "yves rocher",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "farmasi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "chanel",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nars",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fenty beauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nivea",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rare beauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sephora collection",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "revolution",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "la roche posay",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "missha",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "estee lauder",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "clinique",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "note cosmetics",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pazariz",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "davines",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bargello",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "oriflame",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kerastase",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "moroccanoil",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "eyüp sabri tuncer",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "wella",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "aveda",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pierre cardin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nuxe",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nascita",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "neutrogena",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "l'oreal professionnel",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lilafix",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "garnier",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "palette",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bioderma",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "skygo",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "faberlic",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "urban care",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gliss",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "vichy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sebamed",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ersağ",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "inglot",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "colgate",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rexona",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sea color",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "guerlain",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mecit efendi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "l'occitane",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lr",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dove",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "morfose",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "maxx deluxe",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gillette",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "acacia",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "transformacion",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kryolan",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "biomagic",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "i̇noa",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pantene",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "elseve",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bath & body works",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "muscent",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "xolo",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lionesse",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "keune",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "oral-b",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gabrini",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "roesıa rose cosmetics",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rebul",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bee beauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "orkid",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "vi vet",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "vivet",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ogx",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nail master",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "softto plus",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "la mer",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bio vitals",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "venalisa",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "victoria's secret",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "shiseido",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dalan",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nail republic",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "romeron",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "clarins",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "elidor",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "old spice",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dermokil",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "duru",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "schwarzkopf",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mujgan",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "igora",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "thalia",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kalyon",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "anastasia beverly hills",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lykd",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lancome",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sensai",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bobbi brown",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "diadermine",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hobby",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "neva color",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "caudalie",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "huncalife",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tarte",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "neostrata",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kotex",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ai̇ly cosmeti̇cs",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "isana",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "trina",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "max factor",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "show by pastel",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "biotama",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sesu",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "watsons",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "balen",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "puring",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "alterra",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ocean",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "institut esthederm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "matrix",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "syoss",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "alfaparf",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "arko",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bioxcin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "the body shop",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "wet n wi̇ld",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tnl",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bioblas",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "q li̇fe",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "axe",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rival loves me",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lancaster",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dr. clinic",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "botalife",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "palmolive",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kinetics",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "skinceuticals",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "artego",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rose",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "moziur",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "zara",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "aktarloji",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lierac",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "otacı",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rival de loop",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "jagler",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "d&p perfumum",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hacı şakir",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rosecity",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "philips",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rimmel london",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mt",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "arifoğlu",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kiehl's",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "aktarix",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "black point",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "armoni̇konya",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "revolution pro",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "solingen",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pharmaceris",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "staleks",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "esved",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "neva",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "deborah",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "maia mc",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kuaf",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rosense",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "agarta",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ostwint",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "avene",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sebastian",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "eklips",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bepanthol",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "the inkey list",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "revlon",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "beauty girl",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sensodyne",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "essence",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tca studio make up",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "huda beauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "karden",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "milkshake",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sonem çeyiz",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "alix",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sleepy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "signal",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "selective",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "cecile",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "herbal essences",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sheida",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "procsin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fa",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "clemency",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "cerave",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sisley",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "christian breton",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mara",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dermoskin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "taft",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "drunk elephant",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "listerine",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "le petit marseillais",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "caldion",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "shaka",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ursugar",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "derby",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dermalogica",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "new well",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gloria perfume",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "young souls",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "frederic patric",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "artikel",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "david walker",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "b&e parfumum",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sybelle kozmeti̇k",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "insight",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "elemis",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dadya",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rosevelt",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nano absolute",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "r.o.c.s.",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "curaprox",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "alix avien",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "molped",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "restorex",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "xo",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "yves saint laurent",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "i̇pek",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "akos",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "darphin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "biobellinda",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dalin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mad parfüm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "clean rose",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "jamaican jean's",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tariş",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "toni guy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "l'actone",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tepe",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "goldwell",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "vaseline",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "refectocil",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fe",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lovely",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "aden",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hbtasarim",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "makeuptime",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "angel of life",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dolce&gabbana",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "head and shoulders",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "botanica",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "cire aseptine",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ixora",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nishman",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "impala",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "natasha denona",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "komili",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "naturix",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "koton",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pole professional",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hush",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "giorgio armani",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "elizabeth arden",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "eda luxury beauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "afrodit",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rodeo",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "svr",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "difaş",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "destek",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mindivan",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mavala",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "snob",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "korres",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ulric de varens",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "frudia",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nesti dante",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lollis",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "framesi̇",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "antonio banderas",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rowenarose",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tom ford",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "jane iredale",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "paul mitchell",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sol de janeiro",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "slazenger",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "naturabalance",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "selin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "roc",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "phyto",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kirinti 2000",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nook",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "black red",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pupa milano",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gucci",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "biorganic",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dermaderm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "agiva",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rilastil",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "topicrem",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nagaraku",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "jo malone london",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ogansia",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "corega",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pretty beauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ducray",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "qni̇ay",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "poxy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gold beauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fonex",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nursima",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "attar esans",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "minia bahçe bitki ve sanat atölyesi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "i heart revolution",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sansiro",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "john frieda",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nurs",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bonacure",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "anatolia soap",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "burberry",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "xp",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "blendax",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mustela",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bioaqua",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "naturals by watsons",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "biolage",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gillette venus",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "elito",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "si̇nka",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "filorga",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "deotak",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "emotion",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "eveline cosmetics",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "smoothly",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "deep fresh",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "physicians formula",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "monaroza",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "clear",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dermal",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "riposte",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mçs",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "brescia",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "olaplex",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "the purest solutions",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tikatti",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nuka",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pixi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "easy beauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "royal platinum",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lc waikiki",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "celenes by sweden",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "celenes",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dp daily perfection",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "veet",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "d dece",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lelas",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "balea",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "i̇zla",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "benri",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "catherine arley",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "alterna",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rise and shine",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "excellence",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "osis",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "paradise",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "modacar",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tangle teezer",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rayiha",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kelebek kese",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dolce",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "simple",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "olivos",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lisinya",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tito",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "redist",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sensatia botanicals",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "i̇pana",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ziaja",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "naturlife",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bonhair",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "no nome",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lacinia",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "romand",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kiss",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "shiffa home",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "soel parfüm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "peripera",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pure beauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "chi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "softem",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "callista",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ege sir",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "diamond professional",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "marvis",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tarko",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nuka defne esencia",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "revox",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "speci̇al 4 you",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hunca",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "relove by revolution",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "solante",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "promani",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "l.a colors",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "remove",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "cemil efendi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bionike",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "botaniksan",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tresan",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "privacy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "valmont",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "buhara esans",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "vepa",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "splat",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "siveno",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pereja",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "homm bitkisel",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "infinite love",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "forever",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "vital",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "amway",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "alberto taccini",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tiens",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "modalucci",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "make up academy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mi̇nera vi̇tal",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "calvin klein",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "heliocare",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "got2b",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pop beauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "alldermo",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "awe laboratories",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "defacto",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "raliss",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "american crew",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "loris",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "akzer",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "aveeno",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "marks & spencer",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "the organic pharmacy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kajal",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dermacol",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pharma acqua",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ceylinn",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "janssen cosmetics",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "8x4",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tiyrus",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "she",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ankaflex",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fırst time",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ejoya",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kallos cosmetics",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nurxos",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "eda taşpınar",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "walker tape",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "radical",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "parodontax",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bade natural",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "i̇maj",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "the fair",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nilu moda",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "proraso",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "asse",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "vitex kozmetik",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "iris",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pnb",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mardinal",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kazdağ",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "uriage",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bomb cosmetics",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "biocure",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hada labo tokyo",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fax",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bimotif",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kodi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "liva",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "clio",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "just for men",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "zenix",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "brooklin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tracci̇a",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "the balm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bioterra",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "baims",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "banat",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gogo",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "etat pur",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gaman",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "platonik",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "roks",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "passionate",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "selective professional",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "clari̇s",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "raphella",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "valentino",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bebak",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "revuele",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "takıştır",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "foreo",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "murad",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "medipeel",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "axwell",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "cosmed",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sabuncu baba",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "esi̇la",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "luvi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nova",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "siberian wellness",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "zdrave",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "miniso",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fantasti̇k sanat atölyesi̇",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "agiss",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mystic",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "codage",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "youngblood",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "blade",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "shaik",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lastingbeauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "everygreen",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nu-ka defne essencia",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "technic",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "alaraycosmetics",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "givenchy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "activex",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "juvena",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "claderm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "vocal",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mov",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "green label",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "johnson's",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "yağevi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kontes",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "krigler",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fiolas",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "monoville",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "la prairie",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "prokudent",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "barber marmara",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "forever living",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tonymoly",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "for you gold",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "maui",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "jaja",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tto",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "horus nefertem",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "reva",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dr. barbara sturm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "welive",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "versace",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nip+fab",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "layes",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kertil çam",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nevaton",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "luxury prestige",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "elixir",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bioten",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "atelier rebul",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "himalaya",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "byphasse",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lokman",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "angie",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "i̇ronic",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "cazador",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "agon",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hepsimis",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "epoksi kalıp cank",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dp",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "uni baby",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "joywax",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lebelage",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "the saem",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "cliniclab",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "native base",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "synee",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sword & shield",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "full beauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "l'oreal paris men expert",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "neva kozmeti̇k",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "beauty house",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "joure perfume",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bioder",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "talya",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "botegohair",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "epicure",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "capicade",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "life in",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "herbaderm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ganoexcel",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "totex",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "polente natural",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "geske",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "eagles",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dr. jart+",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "magnaroma premium fragrances",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "planet essence",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "the pink ellys",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "naturamisse",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "aqua di polo 1987",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "makeup revolution",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "for your beauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lapitak",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "chermik",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pinpai",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "elan",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "estella",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "prime",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mbr",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bk gift",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "eti",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "jeans color",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "daycare",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "enjoy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "first class",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "savon de royal",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lavera",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "jkosmec",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "roubloff",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fitoderman",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mixup",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "alfheim",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "loreen",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ruşur sefidab",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bitkiselce",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bepanthen",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hermes",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "yayoge",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "davis class",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tigi bed head",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "green therapy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kanzuk",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gnx",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "luis bien",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bi̇ota",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "govern",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "acarlarticaret",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mi̇sbahçe",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "arko men",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "blue ocean",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nouvelle",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "qbee professional",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "palmer's",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mislina",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "cream co.",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hector",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "attar",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "johnson's baby",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "della",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fusswohl",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ymr",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bennye",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "biorlx",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mona lady",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "schelab",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nishlady",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "theodora",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "silky",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "silva",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dionesse",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ibd",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "maria nila",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "seay",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "i̇lterus",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rita",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "toi et moi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hydra",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "biorin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "naj oleari",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lokmanavm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "aksu vital",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bell",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "prova",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ballet",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "jomtam",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "develi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "si̇sa cosmetics",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "braun",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "beurer",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "elea",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fresh white",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "radical color",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "clé d'amour",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "parlement",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hugo boss",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "akat",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "argan cure",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sildne",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "derminix",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gehwol",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "çokuygunuz",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "naturalist",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "shea moisture",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "paco rabanne",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rosece",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "balmy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lattafa",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "brut",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "flower",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "li̇zagold",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "zeynep büyükbay",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "herbal palace",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "buffer",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "maru.derm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "morokon",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "i̇nci ağda",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dr.mars",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sunozon",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "onkafarma",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lubex",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "menbox",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "queen aksesuar",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "real techniques",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "farmstay",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bs bubbles cosmetic",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "batiste",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "o.b.",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "crest",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "maranki",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "halvey",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "levand",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "origins",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "syrna",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dermoday",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bobel",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "la cure beaute",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "wow skin science",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "indola",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "colorinn",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "acqua di parma",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tbrush",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "the soap factory",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sudsenjoyoil",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "chakra",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "idm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "furkan",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "beşikçi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "atomy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mi̇skhane",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bmx",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "maison francis kurkdjian",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dore kolonya kozmetik",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rosella",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "wet brush",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "loft",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "humble brush",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "naturalove",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "matsu",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "viva",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ashley joy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "meridol",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fırsatvar",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fırsatyeri",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "aks kozmetik",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "auran",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "evvahe doğal",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "polosmart",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lashlusion",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mora",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "multiplus",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "aksa",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bazaar 4",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "karşı köyden",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "expertyol",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "yeşil i̇ncir",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "superdrug",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "land of myth",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "thebeautystore",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "se7enhome",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "carla professional make up",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hyd",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "alizade",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "morgan's pomade",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "soho n.y.c.",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "beter",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "liquid keratin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "misa",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "roger&gallet",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "daisy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "opalescence",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ossion",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dr. rena dermo",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tresemme",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bio-oil",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fitness professional",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "roseroi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bambino",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "balmain",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "cocosh she",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "by kilian",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rituel de beaute",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "viva cappio",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "impress",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "splash",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mineaderm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "zigavus",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "valkyrie",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "loyal",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "blistex",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "green clean",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "muddy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "xerjoff",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "vera",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "besttem",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "glide'n style",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "natracare",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "isana men",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "themra",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sadoer",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "baracco parfüm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "firdevsi hobi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "shein",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "cosrx",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "beauty formulas",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "osmanli doğal taş",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "anchor",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "defne",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pablo artisan coffee",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "shrub",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dr. brandt",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "agreka",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mjcare",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "vivol",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "boom butter",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fomy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hpvgent",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "marie claire",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "biostore",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bien",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "astella",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "diptyque",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gland",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "trussardi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "teona",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lavendrose",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "çanakkale kolonyaları",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "himalaya since 1930",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bvlgari",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "arm hammer",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bosphorus",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "cetaphil",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "naturalive",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fitcarehair",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mor salkim home",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "jilong",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dr. cellio",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "alnova",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "amentes",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "iman of noble",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lilamor",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bebedor",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bio keratin gold",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bic",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "art de huile",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "collagen by watsons",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kelebek",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kelebek mobilya",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "labi̇na",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "carolina herrera",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "skinfood",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "w-lab kozmetik",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lovyco",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "prodi̇va",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "x pro harmony",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "trim",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tabac",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "orkide",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dr. ea laboratories",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "embryolisse",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "janssen",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "eucerin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "canped",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mengü şifa",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "babil",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "emek",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fuli̇n",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "daystore",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "solife",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "asl",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "incia",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dr. organic",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dorsh",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gk hair",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "alvin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "cosmolive",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "raaz",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "di̇sney",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bellisima",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rennway",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nacific",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kayamu",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "elegance vip perfume",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "babe laboratorios",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "7days",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mancera",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "yabangülü",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hc care",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "herbalife",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tala",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "cmt",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "carmex",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "moonshine",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "true tape",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "yeşilmarka",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dvd lokman aktar",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dermalex",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bosch",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "carefree",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sinoz",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "jeunesse",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "grace day",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dora joy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "monamour",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "pink",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kenzo",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "klorane",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "color soin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tiziana terenzi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gökçek şifa",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "carmelos",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bellissima",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ref stockholm",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "omega",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "aromatica",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ema beauty",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dekohop",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "hillora",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "chi̇mera",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mani̇sa bi̇rli̇k",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "salvatore ferragamo",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "simply zen",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "element",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "royal",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "moser",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "bahels",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dermadolin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "parfums de marly",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "gülçi̇çek kozmeti̇k",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dicora urban fit",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "natural",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "kiva",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "nab.",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sensilis",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "isis pharma",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "solaris",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "carvien's",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "la fera",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mary & may",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "siirt sabun evi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "glş şi̇fahanem organi̇k aktar",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "prof saracoglu",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "skin401",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "white glo",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "marc anthony",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "uraw",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "groomed",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mugler",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "mehmet aydın",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "lady fit",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "urtekram",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "tex",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "beaver",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "doctor babor",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dead sea",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "top model",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "deepsea",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "english home",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "it's skin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "harrem",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fixodent",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "organicadent",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "epazzar",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ponped",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "epinafol sensitive",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dead sea spa magik",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "edlike",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "vasso men",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "iva natura",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "boğaziçi",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "ti̇neke",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "dermo clean",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "baharat dükkanı",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "eaktariye",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sun",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "momentum",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "rbl",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "playboy",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "sachajuan",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "licape",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "achromin",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "combinal",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "doruk",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    },
+    {
+        "marka": "fulsade",
+        "is_boycotted": false,
+        "halal": false,
+        "gimdes": false
+    }
+]
